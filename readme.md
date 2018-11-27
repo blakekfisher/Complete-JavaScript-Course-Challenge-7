@@ -1,4 +1,4 @@
-#CODING CHALLENGE 7 - Complete JavaScript Course
+# CODING CHALLENGE 7 - Complete JavaScript Course
 
 
 --- Let's build a fun quiz game in the console! ---
